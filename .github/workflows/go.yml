@@ -13,4 +13,8 @@ jobs:
         docker run -d -p 5000:5000 --restart always --name registry registry:2
         sleep 3
         go run .
-        docker pull localhost:5000/test
+
+    - run: docker pull localhost:5000/test
+    - run: docker run -it --rm localhost:5000/test
+    - run: docker images
+    - run: docker image inspect localhost:5000/test
