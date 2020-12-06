@@ -15,6 +15,6 @@ jobs:
         go run .
 
     - run: docker pull localhost:5000/test
-    - run: docker run -it --rm localhost:5000/test
+    - run: docker run --rm localhost:5000/test
     - run: docker images
     - run: docker image inspect localhost:5000/test
