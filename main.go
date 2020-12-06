@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"log"
 
-	"github.com/philpearl/scratchbuild"
+	"github.com/fwilhe2/scratchbuild"
 )
 
 func main() {

@@ -1,3 +1,5 @@
+github.com/fwilhe2/scratchbuild v0.0.0-20180910124120-809ccab2cc6e h1:P9PCVoXmCmW4PCYUwNmTncrk9351wqMcsK9Onww4Gm0=
+github.com/fwilhe2/scratchbuild v0.0.0-20180910124120-809ccab2cc6e/go.mod h1:fhoZknasJpPyvp/pdTiYM69k1aP8wSJ8bMW8DkntSw4=
 github.com/opencontainers/go-digest v1.0.0 h1:apOUWs51W5PlhuyGyz9FCeeBIOUDA/6nW8Oi/yOhh5U=
 github.com/opencontainers/go-digest v1.0.0/go.mod h1:0JzlMkj0TRzQZfJkVvzbP0HBR3IKzErnv2BNG4W4MAM=
 github.com/philpearl/scratchbuild v0.0.0-20180910124120-809ccab2cc6e h1:ronqv3AH27bUJchFQnejM4AvgmGPZRkcX6bLbNYX6xw=
